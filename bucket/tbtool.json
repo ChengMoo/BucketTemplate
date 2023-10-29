@@ -7,8 +7,8 @@
   "license": "MIT",
   "shortcuts": [
     [
-      "图吧工具箱2022.exe",
-      "图吧工具箱2022"
+      "图吧工具箱2023.exe",
+      "图吧工具箱2023"
     ]
   ],
   "checkver": {
@@ -17,6 +17,6 @@
     "replace": "${1}"
   },
   "autoupdate": {
-    "url": "https://download.tualatin.club/%E5%9B%BE%E5%90%A7%E5%B7%A5%E5%85%B7%E7%AE%B1$match1%E7%BB%BF%E8%89%B2%E7%89%88%E8%87%AA%E5%8A%A8%E8%A7%A3%E5%8E%8B%E7%A8%8B%E5%BA%8F$match2.exe#/TuBaTool.7z"
+    "url": "https://download.tualatin.club/%E5%9B%BE%E5%90%A7%E5%B7%A5%E5%85%B7%E7%AE%B1match1%E7%BB%BF%E8%89%B2%E7%89%88%E8%87%AA%E5%8A%A8%E8%A7%A3%E5%8E%8B%E7%A8%8B%E5%BA%8Fmatch1%E7%BB%BF%E8%89%B2%E7%89%88%E8%87%AA%E5%8A%A8%E8%A7%A3%E5%8E%8B%E7%A8%8B%E5%BA%8Fmatch2.exe#/TuBaTool.7z"
   }
 }
